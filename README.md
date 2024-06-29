@@ -1,5 +1,4 @@
-
-tic tac toe in python
+Tic tac toe in Python
 # Tic Tac Toe Game
 
 This is a simple Tic Tac Toe (XOX) game implemented in Python. Two players take turns to place their mark (X or O) on the 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
@@ -19,7 +18,7 @@ This is a simple Tic Tac Toe (XOX) game implemented in Python. Two players take 
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/Aysenur-Erkin/tic-tac-toe.git
     cd tic-tac-toe
     ```
 
